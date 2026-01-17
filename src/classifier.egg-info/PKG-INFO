@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: classifier
+Version: 0.0.1
+Summary: A small python package for animal disease classification
+Home-page: https://github.com/DarkFoot101/animal-disease-classification-with-llm
+Author: DarkFoot101
+Author-email: [EMAIL_ADDRESS]
+Project-URL: Bug Tracker, https://github.com/DarkFoot101/animal-disease-classification-with-llm/issues
+Description-Content-Type: text/markdown
+
+# animal-disease-classification-with-llm
