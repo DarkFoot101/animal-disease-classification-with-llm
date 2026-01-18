@@ -156,3 +156,257 @@ x==========x]
 [2026-01-18 14:53:51,637 - INFO - main - >>>>>> Stage Prepare Callbacks Stage completed <<<<<<
 
 x==========x]
+[2026-01-18 15:44:34,114 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 15:44:34,123 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 15:45:16,315 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 15:45:16,320 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 15:45:16,999 - WARNING - saving_utils - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-18 15:50:50,138 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 15:50:50,141 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 15:50:50,450 - WARNING - saving_utils - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-18 15:51:06,140 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 15:51:06,143 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 15:51:06,417 - WARNING - saving_utils - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-18 15:54:55,088 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 15:54:55,090 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 15:54:55,507 - WARNING - saving_utils - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-18 15:56:24,095 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 15:56:24,098 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 15:56:25,517 - WARNING - saving_utils - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-18 16:00:07,813 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 16:00:07,815 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 16:00:08,130 - WARNING - saving_utils - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-18 16:00:58,894 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 16:00:58,896 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 16:00:59,148 - WARNING - saving_utils - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-18 16:04:11,139 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 16:11:35,797 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 19:43:24,968 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 19:43:24,974 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 19:43:25,434 - WARNING - saving_utils - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-18 19:46:34,561 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 19:53:14,859 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 19:56:31,964 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 19:59:50,129 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 19:59:50,351 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 20:01:32,045 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 20:01:32,048 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 20:02:08,889 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 20:02:08,892 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 20:05:30,753 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 20:08:44,080 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 20:11:58,140 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 20:18:27,185 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 20:18:27,372 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 20:23:34,308 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 20:23:34,311 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 20:26:50,452 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 20:30:09,261 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 20:40:06,917 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:15:11,799 - INFO - main - >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2026-01-18 21:15:11,799 - INFO - stage_01_data_ingestion - >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2026-01-18 21:15:11,801 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:15:11,805 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:15:16,182 - INFO - data_ingestion - File : artifacts\data_ingestion\data.zip downloaded with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1CA9:377B38:3130C0:6D8C11:696D000A
+Accept-Ranges: bytes
+Date: Sun, 18 Jan 2026 15:45:18 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830056-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1768751117.401957,VS0,VE1208
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5fa5ed192f883ab8bf6d7f21ed060740bb45ef66
+Expires: Sun, 18 Jan 2026 15:50:18 GMT
+Source-Age: 1
+
+]
+[2026-01-18 21:15:16,524 - INFO - stage_01_data_ingestion - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:15:16,524 - INFO - main - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:15:16,525 - INFO - main - >>>>>> Stage Prepare Base Model Stage started <<<<<<]
+[2026-01-18 21:15:16,525 - INFO - stage_02_prepare_base_model - >>>>>> Stage Prepare Base Model Stage started <<<<<<]
+[2026-01-18 21:15:16,527 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:15:16,528 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:15:17,126 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:15:17,293 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:15:17,420 - INFO - stage_02_prepare_base_model - >>>>>> Stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:15:17,421 - INFO - main - >>>>>> Stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:15:17,421 - INFO - main - >>>>>> Stage Prepare Callbacks Stage started <<<<<<]
+[2026-01-18 21:15:17,421 - INFO - stage_03_prepare_callbacks - >>>>>> Stage Prepare Callbacks Stage started <<<<<<]
+[2026-01-18 21:15:17,423 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:15:17,425 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:15:17,429 - INFO - stage_03_prepare_callbacks - >>>>>> Stage Prepare Callbacks Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:15:17,429 - INFO - main - >>>>>> Stage Prepare Callbacks Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:15:17,429 - INFO - main - >>>>>> Stage Training Stage started <<<<<<]
+[2026-01-18 21:15:17,430 - INFO - stage_04_training - >>>>>> Stage Training Stage started <<<<<<]
+[2026-01-18 21:15:17,431 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:15:17,433 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:15:17,438 - ERROR - stage_04_training - 'Training' object has no attribute 'train_generator']
+Traceback (most recent call last):
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\pipeline\stage_04_training.py", line 23, in main
+    training.train(callback_list=callback_list)
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\components\training.py", line 87, in train
+    self.steps_per_epoch = math.ceil(self.train_generator.samples / self.train_generator.batch_size)
+AttributeError: 'Training' object has no attribute 'train_generator'. Did you mean: 'train_valid_generator'?
+[2026-01-18 21:15:17,439 - ERROR - main - 'Training' object has no attribute 'train_generator']
+Traceback (most recent call last):
+  File "C:\Users\Akhil\OneDrive\Desktop\animal-disease-classification-with-llm\main.py", line 42, in <module>
+    pipeline.main()
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\pipeline\stage_04_training.py", line 28, in main
+    raise e
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\pipeline\stage_04_training.py", line 23, in main
+    training.train(callback_list=callback_list)
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\components\training.py", line 87, in train
+    self.steps_per_epoch = math.ceil(self.train_generator.samples / self.train_generator.batch_size)
+AttributeError: 'Training' object has no attribute 'train_generator'. Did you mean: 'train_valid_generator'?
+[2026-01-18 21:18:48,190 - INFO - main - >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2026-01-18 21:18:48,190 - INFO - stage_01_data_ingestion - >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2026-01-18 21:18:48,192 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:18:48,194 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:18:48,195 - INFO - data_ingestion - File already exists of size: 11344.64 KB]
+[2026-01-18 21:18:48,471 - INFO - stage_01_data_ingestion - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:18:48,472 - INFO - main - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:18:48,472 - INFO - main - >>>>>> Stage Prepare Base Model Stage started <<<<<<]
+[2026-01-18 21:18:48,472 - INFO - stage_02_prepare_base_model - >>>>>> Stage Prepare Base Model Stage started <<<<<<]
+[2026-01-18 21:18:48,476 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:18:48,477 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:18:48,934 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:18:49,132 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:18:49,273 - INFO - stage_02_prepare_base_model - >>>>>> Stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:18:49,273 - INFO - main - >>>>>> Stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:18:49,274 - INFO - main - >>>>>> Stage Prepare Callbacks Stage started <<<<<<]
+[2026-01-18 21:18:49,274 - INFO - stage_03_prepare_callbacks - >>>>>> Stage Prepare Callbacks Stage started <<<<<<]
+[2026-01-18 21:18:49,276 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:18:49,277 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:18:49,279 - INFO - stage_03_prepare_callbacks - >>>>>> Stage Prepare Callbacks Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:18:49,279 - INFO - main - >>>>>> Stage Prepare Callbacks Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:18:49,279 - INFO - main - >>>>>> Stage Training Stage started <<<<<<]
+[2026-01-18 21:18:49,280 - INFO - stage_04_training - >>>>>> Stage Training Stage started <<<<<<]
+[2026-01-18 21:18:49,282 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:18:49,283 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:18:49,287 - ERROR - stage_04_training - 'Training' object has no attribute 'train_generator']
+Traceback (most recent call last):
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\pipeline\stage_04_training.py", line 23, in main
+    training.train(callback_list=callback_list)
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\components\training.py", line 89, in train
+    self.steps_per_epoch = math.ceil(self.train_generator.samples / self.train_generator.batch_size)
+AttributeError: 'Training' object has no attribute 'train_generator'. Did you mean: 'train_valid_generator'?
+[2026-01-18 21:18:49,289 - ERROR - main - 'Training' object has no attribute 'train_generator']
+Traceback (most recent call last):
+  File "C:\Users\Akhil\OneDrive\Desktop\animal-disease-classification-with-llm\main.py", line 42, in <module>
+    pipeline.main()
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\pipeline\stage_04_training.py", line 28, in main
+    raise e
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\pipeline\stage_04_training.py", line 23, in main
+    training.train(callback_list=callback_list)
+  File "c:\users\akhil\onedrive\desktop\animal-disease-classification-with-llm\src\classifier\components\training.py", line 89, in train
+    self.steps_per_epoch = math.ceil(self.train_generator.samples / self.train_generator.batch_size)
+AttributeError: 'Training' object has no attribute 'train_generator'. Did you mean: 'train_valid_generator'?
+[2026-01-18 21:26:52,685 - INFO - main - >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2026-01-18 21:26:52,685 - INFO - stage_01_data_ingestion - >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2026-01-18 21:26:52,688 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:26:52,689 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:26:55,820 - INFO - data_ingestion - File : artifacts\data_ingestion\data.zip downloaded with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1CA9:377B38:3130C0:6D8C11:696D000A
+Accept-Ranges: bytes
+Date: Sun, 18 Jan 2026 15:56:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830055-CCU
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1768751818.248257,VS0,VE258
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e7c985fbe7579dc9dc8896a5fba2ac9487b02562
+Expires: Sun, 18 Jan 2026 16:01:58 GMT
+Source-Age: 0
+
+]
+[2026-01-18 21:26:56,098 - INFO - stage_01_data_ingestion - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:26:56,098 - INFO - main - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:26:56,098 - INFO - main - >>>>>> Stage Prepare Base Model Stage started <<<<<<]
+[2026-01-18 21:26:56,098 - INFO - stage_02_prepare_base_model - >>>>>> Stage Prepare Base Model Stage started <<<<<<]
+[2026-01-18 21:26:56,098 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:26:56,098 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:26:56,642 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:26:56,830 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:26:56,959 - INFO - stage_02_prepare_base_model - >>>>>> Stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:26:56,960 - INFO - main - >>>>>> Stage Prepare Base Model Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:26:56,960 - INFO - main - >>>>>> Stage Prepare Callbacks Stage started <<<<<<]
+[2026-01-18 21:26:56,960 - INFO - stage_03_prepare_callbacks - >>>>>> Stage Prepare Callbacks Stage started <<<<<<]
+[2026-01-18 21:26:56,962 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:26:56,964 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:26:56,969 - INFO - stage_03_prepare_callbacks - >>>>>> Stage Prepare Callbacks Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:26:56,970 - INFO - main - >>>>>> Stage Prepare Callbacks Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:26:56,970 - INFO - main - >>>>>> Stage Training Stage started <<<<<<]
+[2026-01-18 21:26:56,970 - INFO - stage_04_training - >>>>>> Stage Training Stage started <<<<<<]
+[2026-01-18 21:26:56,973 - INFO - common - yaml file: config\config.yaml loaded successfully]
+[2026-01-18 21:26:56,975 - INFO - common - yaml file: params.yaml loaded successfully]
+[2026-01-18 21:29:37,527 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:41:36,318 - WARNING - saving_api - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2026-01-18 21:41:36,457 - INFO - stage_04_training - >>>>>> Stage Training Stage completed <<<<<<
+
+x==========x]
+[2026-01-18 21:41:36,457 - INFO - main - >>>>>> Stage Training Stage completed <<<<<<
+
+x==========x]
