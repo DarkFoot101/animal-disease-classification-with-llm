@@ -1,0 +1,10 @@
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+.pyre/
+.pytype/
+cython_debug/
+__pycache__/
+
+artifacts/*
