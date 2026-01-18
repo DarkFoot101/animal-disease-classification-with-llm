@@ -1,5 +1,5 @@
 from classifier.config.configuration import ConfigurationManager
-from classifier.components import DataIngestion
+from classifier.components.data_ingestion import DataIngestion
 from classifier import logger
 
 STAGE_NAME = "Data Ingestion Stage"
