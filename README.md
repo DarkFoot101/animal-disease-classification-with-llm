@@ -56,6 +56,8 @@ Brain tumors are a significant health concern worldwide, and early detection is 
 
 ![Project Picture](https://github.com/user-attachments/assets/b3773967-73cc-4921-bff7-b2d9bf53a18e)
 
+<img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/1bcbc806-851b-4e2c-80f3-06b79c45bdf8" />
+
 ---
 
 ## 🔄 Pipeline Flowchart
