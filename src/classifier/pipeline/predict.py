@@ -16,9 +16,18 @@ class PredictionPipeline:
         result = np.argmax(model.predict(test_image), axis= 1)
         print(result)
 
-        if result[0] == 1:
-            prediction = 'Healthy'
+        if result[0] == 0:
+            prediction = 'You are suffering from Giloma, get immediate treatment'
+            return [{"image" : prediction}]
+        elif result[0] == 1:
+            prediction = 'You are Extremely Healthy, go ahead!'
+            return [{"image" : prediction}]
+        elif result[0] == 2:
+            prediction = 'You are suffering from Meningioma, get immediate treatment'
+            return [{"image" : prediction}]
+        elif result[0] == 3:
+            prediction = 'You are suffering from Pituitary Tumor, get immediate treatment'
             return [{"image" : prediction}]
         else:
-            prediction = 'Unhealthy'
+            prediction = 'Error in prediction'
             return [{"image" : prediction}]
