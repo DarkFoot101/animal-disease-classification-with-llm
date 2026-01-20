@@ -14,13 +14,10 @@ class ClientApp:
         model_path = os.path.join("artifacts", "training", "trained_model.h5")
         self.classifier = PredictionPipeline(model_path=model_path)
 
-# Initialize the model once when app starts
-# If this fails, your terminal will show an error immediately
 try:
     clApp = ClientApp()
 except Exception as e:
     print(f"CRITICAL ERROR LOADING MODEL: {e}")
-    # We don't exit, so you can see the error in the terminal
 
 @app.route("/", methods=["GET"])
 def home():
@@ -34,9 +31,6 @@ def train():
 @app.route("/predict", methods=["POST"])
 def predictRoute():
     try:
-        # --- FIX FOR WINDOWS VS CLOUD ---
-        # If we are on Cloud Run (Linux), /tmp exists.
-        # If we are on Windows, we use the current folder or 'uploads'
         if os.name == 'posix': # Linux/Mac/Cloud Run
             base_path = "/tmp"
         else: # Windows
@@ -46,7 +40,6 @@ def predictRoute():
 
         filename = str(uuid.uuid4()) + ".jpg"
         filepath = os.path.join(base_path, filename)
-        # -------------------------------
 
         if "file" in request.files:
             file = request.files["file"]
@@ -63,17 +56,15 @@ def predictRoute():
         else:
             return jsonify({"error": "Unsupported request"}), 400
 
-        # Perform Prediction
         result = clApp.classifier.predict(img_path=filepath)
         
-        # Cleanup
         if os.path.exists(filepath):
             os.remove(filepath)
 
         return jsonify(result)
 
     except Exception as e:
-        print(f"ERROR DURING PREDICTION: {e}") # Check your terminal for this!
+        print(f"ERROR DURING PREDICTION: {e}")
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
