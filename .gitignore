@@ -8,3 +8,4 @@ cython_debug/
 __pycache__/
 
 artifacts/*
+!artifacts/training/trained_model.h5

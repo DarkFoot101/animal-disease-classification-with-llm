@@ -71,8 +71,9 @@ def predictRoute():
         return jsonify({"error": str(e)}), 500
 
 
-if __name__ == "__main__":
-    clApp = ClientApp(app)
+clApp = ClientApp(app)
 
+
+if __name__ == "__main__":
     # Run on Colab / Docker / cloud
     app.run(host="0.0.0.0", port=8080, debug=True)
