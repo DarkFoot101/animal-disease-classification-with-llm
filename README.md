@@ -24,7 +24,6 @@ Brain tumors are a significant health concern worldwide, and early detection is 
 
 - **Transfer Learning:** Utilizes **VGG19** (19 layers, pre-trained on ImageNet) to achieve high accuracy with a specialized medical dataset.
 - **Pipeline Orchestration:** **DVC** manages the entire machine learning pipeline (Ingestion -> Preparation -> Training -> Evaluation), ensuring full reproducibility.
-- **Experiment Tracking:** **MLflow** tracks experiments, logging metrics (accuracy, loss) and parameters to a remote server (DAGsHub).
 - **Serverless Deployment:** Automatically builds and deploys to **Google Cloud Run** via GitHub Actions, featuring a highly optimized Docker container with system-level dependencies for computer vision.
 - **Modern Web UI:** A sleek Flask-based frontend for real-time predictions.
 
